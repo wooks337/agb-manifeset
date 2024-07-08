@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <default revision="develop" remote="origin" sync-j="4" />
+  <default revision="dev" remote="origin" sync-j="4" />
   <remote name="origin" fetch="https://github.com/OBIGOGIT/" />
 
   <project remote="origin" revision="dev" name="admin-server" path="project-service-agb-admin-server" />
