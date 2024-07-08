@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <default revision="develop" remote="origin" sync-j="4" />
+  <remote name="origin" fetch="https://github.com/OBIGOGIT/" />
+
+  <project remote="origin" revision="dev" name="admin-server" path="../agb-server/project-service-agb-admin-server" />
+
+  <project remote="origin" revision="dev" name="batch" path="../agb-server/project-service-agb-batch" />
+
+  <project remote="origin" revision="dev" name="core" path="../agb-server/project-service-agb-core" />
+
+  <project remote="origin" revision="dev" name="gateway" path="../agb-server/project-service-agb-gateway" />
+
+</manifest>
