@@ -11,8 +11,8 @@
 
   <project remote="origin" revision="dev" name="project-service-agb-gateway" path="project-service-agb-gateway" />
 
-  <project remote="origin" revision="dev" name="project-apps-agb-admin" path="project-service-agb-core" />
+  <project remote="origin" revision="dev" name="project-apps-agb-admin" path="project-apps-agb-admin" />
 
-  <project remote="origin" revision="dev" name="project-apps-agb-launcher" path="project-service-agb-gateway" />
+  <project remote="origin" revision="dev" name="project-apps-agb-launcher" path="project-apps-agb-launcher" />
 
 </manifest>
